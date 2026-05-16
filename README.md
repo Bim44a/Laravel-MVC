@@ -11,27 +11,27 @@ Mempelajari konsep framework, arsitektur MVC (Model-View-Controller), struktur f
 # Tugas 1: Routing dan View Anggota
 
 ## Daftar Anggota
-![Daftar Anggota](images-9/daftar_anggota.png)
+![Daftar Anggota](images-p9/daftar_anggota.png)
 
 ## Detail Anggota
-![Detail Anggota](images-9/detail_anggota.png)
+![Detail Anggota](images-p9/detail_anggota.png)
 
 ---
 
 # Tugas 2: Controller dan MVC Kategori Buku
 
 ## Daftar Kategori Buku
-![Daftar Kategori Buku](images-9/daftar_kategori_buku.png)
+![Daftar Kategori Buku](images-p9/daftar_kategori_buku.png)
 
 ## Detail Kategori Buku
-![Detail Kategori Buku](images-9/detail_kategori_buku.png)
+![Detail Kategori Buku](images-p9/detail_kategori_buku.png)
 
 ---
 
-# Fitur Pencarian Kategori
+# Search
 
 ## Hasil Pencarian Kategori
-![Hasil Pencarian](images-9/hasil_pencarian.png)
+![Hasil Pencarian](images-p9/hasil_pencarian.png)
 
 ## Hasil Pencarian Tidak Ditemukan
 ![Hasil Cari Tidak Ditemukan](images-9/hasil_cari_tidak_di_temukan.png)
@@ -41,7 +41,7 @@ Mempelajari konsep framework, arsitektur MVC (Model-View-Controller), struktur f
 # Tampilan Dengan Navbar
 
 ## Daftar Anggota Dengan Navbar
-![Navbar Daftar Anggota](images-9/nav_daftar_anggota.png)
+![Navbar Daftar Anggota](images-p9/nav_daftar_anggota.png)
 
 ## Detail Anggota Dengan Navbar
-![Navbar Detail Anggota](images-9/nav_detail_anggota.png)
+![Navbar Detail Anggota](images-p9/nav_detail_anggota.png)
