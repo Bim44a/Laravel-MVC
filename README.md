@@ -34,7 +34,7 @@ Mempelajari konsep framework, arsitektur MVC (Model-View-Controller), struktur f
 ![Hasil Pencarian](images-p9/hasil_pencarian.png)
 
 ## Hasil Pencarian Tidak Ditemukan
-![Hasil Cari Tidak Ditemukan](images-p9/hasil_cari_tidak_di_temukan.png)
+![Hasil Cari Tidak Ditemukan](images-p9/hasil_cari_tidak_ditemukan.png)
 
 ---
 
